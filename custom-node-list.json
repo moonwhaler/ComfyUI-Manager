@@ -12,6 +12,17 @@
             "description": "ComfyUI-Manager itself is also a custom node."
         },
         {
+            "author": "Moonwhaler",
+            "title": "ComfyUI-Moonpack",
+            "id": "comfyui-moonpack",
+            "reference": "https://github.com/moonwhaler/comfyui-moonpack.git",
+            "files": [
+                "https://github.com/moonwhaler/comfyui-moonpack.git"
+            ],
+            "install_type": "git-clone",
+            "description": "Various utility nodes for video & text. These are WAN/VACE helper for Kijai nodes."
+        },
+        {
             "author": "Dr.Lt.Data",
             "title": "ComfyUI Impact Pack",
             "id": "comfyui-impact-pack",
